@@ -5,4 +5,4 @@
 # into the report(in word editing format)
 # Note that the program will only work for output files with a zones of maximum area equal to 99.999 m2
 # due to the coordinates of particular area strings (code lines 30-34). 
-# Repository contains output file to process.
+# Repository contains input file for processing.
